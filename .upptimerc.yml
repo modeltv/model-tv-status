@@ -7,6 +7,8 @@ sites:
     url: https://www.modeltv.com/version
   - name: ModelTV API
     url: https://api.modeltv.com/api/v1/healthz
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   theme: dark
