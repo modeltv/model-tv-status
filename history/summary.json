@@ -4,18 +4,20 @@
     "url": "https://www.modeltv.com/version",
     "icon": "https://icons.duckduckgo.com/ip3/www.modeltv.com.ico",
     "slug": "model-tv-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1607,
-    "timeDay": 544,
-    "timeWeek": 2838,
-    "timeMonth": 1607,
-    "timeYear": 1607,
-    "dailyMinutesDown": {}
+    "time": 1551,
+    "timeDay": 327,
+    "timeWeek": 2535,
+    "timeMonth": 1551,
+    "timeYear": 1551,
+    "dailyMinutesDown": {
+      "2023-01-02": 0
+    }
   },
   {
     "name": "ModelTV API",
