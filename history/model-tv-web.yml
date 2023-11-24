@@ -1,7 +1,7 @@
 url: https://www.modeltv.com/version
-status: up
-code: 200
-responseTime: 7698
-lastUpdated: 2023-11-24T07:11:44.004Z
+status: down
+code: 500
+responseTime: 746
+lastUpdated: 2023-11-24T08:57:18.474Z
 startTime: 2022-12-15T14:57:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
