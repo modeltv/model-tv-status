@@ -1,7 +1,7 @@
 url: https://api.modeltv.com/api/v1/healthz
 status: up
 code: 200
-responseTime: 173
-lastUpdated: 2023-12-23T23:14:43.800Z
+responseTime: 550
+lastUpdated: 2023-12-24T23:14:43.072Z
 startTime: 2022-12-15T14:57:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
