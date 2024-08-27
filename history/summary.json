@@ -26,17 +26,19 @@
     "url": "https://api.modeltv.com/api/v1/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.modeltv.com.ico",
     "slug": "model-tv-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 272,
-    "timeWeek": 341,
-    "timeMonth": 312,
-    "timeYear": 351,
-    "dailyMinutesDown": {}
+    "time": 371,
+    "timeDay": 266,
+    "timeWeek": 331,
+    "timeMonth": 311,
+    "timeYear": 350,
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   }
 ]
