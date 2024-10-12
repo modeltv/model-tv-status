@@ -1,7 +1,7 @@
 url: https://api.modeltv.com/api/v1/healthz
 status: down
 code: 503
-responseTime: 295
-lastUpdated: 2024-10-11T23:17:35.372Z
+responseTime: 208
+lastUpdated: 2024-10-12T23:17:31.376Z
 startTime: 2022-12-15T14:57:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
