@@ -4,17 +4,17 @@
     "url": "https://www.modeltv.com/version",
     "icon": "https://icons.duckduckgo.com/ip3/www.modeltv.com.ico",
     "slug": "model-tv-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "55.33%",
-    "uptimeWeek": "62.98%",
-    "uptimeMonth": "91.48%",
+    "uptimeDay": "55.37%",
+    "uptimeWeek": "63.16%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "99.29%",
-    "time": 1375,
-    "timeDay": 1180,
-    "timeWeek": 1143,
-    "timeMonth": 1189,
-    "timeYear": 1415,
+    "time": 1372,
+    "timeDay": 1139,
+    "timeWeek": 1135,
+    "timeMonth": 1183,
+    "timeYear": 1411,
     "dailyMinutesDown": {
       "2025-10-09": 489,
       "2025-10-08": 729,
@@ -22,7 +22,7 @@
       "2025-10-06": 508,
       "2025-10-05": 581,
       "2025-10-04": 495,
-      "2025-10-03": 279
+      "2025-10-03": 261
     }
   },
   {
@@ -42,7 +42,7 @@
     "timeMonth": 155,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-10-09": 1154,
+      "2025-10-09": 1165,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
