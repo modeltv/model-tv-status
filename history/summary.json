@@ -4,19 +4,18 @@
     "url": "https://www.modeltv.com/version",
     "icon": "https://icons.duckduckgo.com/ip3/www.modeltv.com.ico",
     "slug": "model-tv-web",
-    "status": "down",
+    "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "80.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "81.78%",
     "uptimeYear": "93.79%",
-    "time": 1460,
-    "timeDay": 9946,
-    "timeWeek": 4527,
-    "timeMonth": 2918,
-    "timeYear": 1470,
+    "time": 1462,
+    "timeDay": 7923,
+    "timeWeek": 4302,
+    "timeMonth": 2867,
+    "timeYear": 1473,
     "dailyMinutesDown": {
-      "2025-12-04": 13,
       "2025-11-18": 184,
       "2025-11-10": 674,
       "2025-11-09": 1440,
@@ -44,7 +43,8 @@
       "2025-10-08": 729,
       "2025-10-07": 649,
       "2025-10-06": 508,
-      "2025-10-05": 581
+      "2025-10-05": 581,
+      "2025-10-04": 24
     }
   },
   {
@@ -53,18 +53,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.modeltv.com.ico",
     "slug": "model-tv-api",
     "status": "down",
-    "uptime": "57.20%",
+    "uptime": "57.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 204,
-    "timeDay": 188,
-    "timeWeek": 176,
-    "timeMonth": 163,
+    "time": 203,
+    "timeDay": 138,
+    "timeWeek": 178,
+    "timeMonth": 166,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-12-04": 892,
+      "2025-12-05": 77,
+      "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -427,8 +428,7 @@
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
-      "2024-12-06": 1440,
-      "2024-12-05": 1440
+      "2024-12-06": 1440
     }
   }
 ]
